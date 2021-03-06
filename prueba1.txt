@@ -5,3 +5,7 @@ Adicionando línea 4
 Trabajo en la nueva rama
 prueba
 Otra línea
+Rama 2 línea 1
+Rama 2 línea 2
+Rama 2 línea 3
+Rama 2 línea 4
