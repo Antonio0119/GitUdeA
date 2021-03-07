@@ -26,3 +26,16 @@ prueba merge
   en rama1
 
 cambio en rama1
+Probando cambios en la rama 2
+prueba
+prueba rama 2
+ asdas
+ asdasd
+ sadasd
+ sad
+
+ prueba con rama2 en VSC
+ jeje
+
+ cambio en rama2
+ jaja
