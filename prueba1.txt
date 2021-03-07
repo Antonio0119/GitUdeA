@@ -29,3 +29,13 @@ asdasd
 
 haciendo pruebas con git en VSC
 oe
+Probando cambios en la rama 2
+prueba
+prueba rama 2
+ asdas
+ asdasd
+ sadasd
+ sad
+
+ prueba con rama2 en VSC
+ jeje
