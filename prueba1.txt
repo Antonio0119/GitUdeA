@@ -9,7 +9,6 @@ Rama 2 línea 1
 Rama 2 línea 2
 Rama 2 línea 3
 Rama 2 línea 4
-<<<<<<< HEAD
 Rama1 linea 1
 Rama1 linea 2
 Rama1 linea 3
@@ -18,10 +17,5 @@ Rama1 linea 5
 Rama1 linea 6
 Rama1 linea 7
 
-=======
-
-
-Probando cambios en la rama 2
-prueba
-prueba rama 2
->>>>>>> master
+prueba Rama1
+prueba merge
