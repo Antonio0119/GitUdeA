@@ -22,9 +22,6 @@ prueba merge
  asd
 
  priuebas
-<<<<<<< HEAD
  
-=======
   cambios 
   en rama1
->>>>>>> rama1
