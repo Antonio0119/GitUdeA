@@ -9,5 +9,13 @@ Rama 2 línea 1
 Rama 2 línea 2
 Rama 2 línea 3
 Rama 2 línea 4
+<<<<<<< HEAD
 Prueba
 prueba 2
+=======
+
+
+Probando cambios en la rama 2
+prueba
+prueba rama 2
+>>>>>>> f6f1659 (Probando cambios en la rama2)
