@@ -29,6 +29,8 @@ asdasd
 
 haciendo pruebas con git en VSC
 oe
+
+cambio en rama1
 Probando cambios en la rama 2
 prueba
 prueba rama 2
@@ -41,3 +43,8 @@ prueba rama 2
  jeje
 
 cambios en master
+rama 3 nueva
+asdasd
+jeje
+ cambio en rama2
+ jaja
