@@ -26,3 +26,5 @@ prueba merge
   cambios 
   en rama1
 asdasd
+
+haciendo pruebas con git en VSC
